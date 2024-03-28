@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Projet_gestion_des_noms/1.0.0": {
+        "runtime": {
+          "Projet_gestion_des_noms.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Projet_gestion_des_noms/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
